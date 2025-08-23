@@ -10,15 +10,19 @@ I am Fernando, in summary, a Developer.
   - [A python based CV / Portifolio](https://github.com/darthjee/weave)
   - [An angularJS generic controller](https://github.com/darthjee/cyberhawk)
   - [An AngularJS route configurator](https://github.com/darthjee/johto)
+  - [A pipboy style arduino](https://github.com/darthjee/pipboy)
   ```
 
-Projects needing attention but I don't have time ⏳ now
+-⏳ Projects needing attention but I don't have tim now
   ```
   - [A gem for dealing with mathematical formulas](https://github.com/darthjee/danica)
   - [A node proxy with Docker management capabilities](https://github.com/darthjee/huntress)
   - [A catalog tool](https://github.com/darthjee/oak)
   - [A Docker orchestrator for development](https://github.com/darthjee/eddie)
+  - [A script repository better than gists](https://github.com/darthjee/paperboy)
   ```
+
+---
 <!--
 **darthjee/darthjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
