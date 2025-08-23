@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 [![Fernando Favini profile views](https://u8views.com/api/v1/github/profiles/3843066/views/day-week-month-total-count.svg)](https://u8views.com/github/darthjee)
 
 <!--
 **darthjee/darthjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
