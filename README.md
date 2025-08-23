@@ -15,7 +15,7 @@ Software developer with a restless mind and an insatiable curiosity. I'm passion
   - [An AngularJS route configurator](https://github.com/darthjee/johto)
   - [A pipboy style arduino](https://github.com/darthjee/pipboy)
   ```
--⏳ Projects needing attention but I don't have tim now
+- ⏳ Projects needing attention but I don't have tim now
   ```
   - [A gem for dealing with mathematical formulas](https://github.com/darthjee/danica)
   - [A node proxy with Docker management capabilities](https://github.com/darthjee/huntress)
