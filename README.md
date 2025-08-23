@@ -1,7 +1,10 @@
 ## Hi there 👋 [![Fernando Favini profile views](https://u8views.com/api/v1/github/profiles/3843066/views/day-week-month-total-count.svg)](https://u8views.com/github/darthjee)
-
+### Who am I
 I am Fernando, in summary, a Developer.
 
+Software developer with a restless mind and an insatiable curiosity. I'm passionate about diving deep into system internals, constantly experimenting with new tech to craft creative solutions, primarily in but not limited to Ruby on Rails.
+
+---
 - 🔭 I’m playing with:
   ```
   - [Disease spread simulation](https://github.com/darthjee/plague_inc/)
@@ -12,7 +15,6 @@ I am Fernando, in summary, a Developer.
   - [An AngularJS route configurator](https://github.com/darthjee/johto)
   - [A pipboy style arduino](https://github.com/darthjee/pipboy)
   ```
-
 -⏳ Projects needing attention but I don't have tim now
   ```
   - [A gem for dealing with mathematical formulas](https://github.com/darthjee/danica)
