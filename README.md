@@ -6,7 +6,6 @@ Software developer with a restless mind and an insatiable curiosity. I'm passion
 
 ---
 - 🔭 I’m playing with:
-  ```
   - [Disease spread simulation](https://github.com/darthjee/plague_inc/)
   - [Proxy for applications with cold start](https://github.com/darthjee/tent)
   - [Gem for data filtering](https://github.com/darthjee/kiroshi)
@@ -14,15 +13,12 @@ Software developer with a restless mind and an insatiable curiosity. I'm passion
   - [An angularJS generic controller](https://github.com/darthjee/cyberhawk)
   - [An AngularJS route configurator](https://github.com/darthjee/johto)
   - [A pipboy style arduino](https://github.com/darthjee/pipboy)
-  ```
 - ⏳ Projects needing attention but I don't have tim now
-  ```
   - [A gem for dealing with mathematical formulas](https://github.com/darthjee/danica)
   - [A node proxy with Docker management capabilities](https://github.com/darthjee/huntress)
   - [A catalog tool](https://github.com/darthjee/oak)
   - [A Docker orchestrator for development](https://github.com/darthjee/eddie)
   - [A script repository better than gists](https://github.com/darthjee/paperboy)
-  ```
 
 ---
 <!--
